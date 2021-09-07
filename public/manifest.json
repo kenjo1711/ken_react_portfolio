@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Ken",
+  "name": "Kenrick Jabez | Portfolio",
   "icons": [
     {
-      "src": "/images/icons-512.png",
+      "src": "/images/kj-icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -11,5 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#111111"
 }

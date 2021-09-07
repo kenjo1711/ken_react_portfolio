@@ -171,7 +171,7 @@ const About = () => {
 
                             <div className='col-lg-4'>
                                 <div className='card-2 mt-2'>
-                                    <img className='card-image' src={GRAYSCALE} />
+                                    <img className='img-fluid card-image' src={GRAYSCALE} />
                                     <div className='card-body'>
                                         <h1 className='card-title mb-4'>Grayscale</h1>
                                         <a target='_blank' className='project-links' href='https://lucid-panini-cb63db.netlify.app'>Visit Site</a>
@@ -181,7 +181,7 @@ const About = () => {
 
                             <div className='col-lg-4'>
                                 <div className='card-2 mt-2'>
-                                    <img className='card-image' src={TENCENT} />
+                                    <img className='img-fluid card-image' src={TENCENT} />
                                     <div className='card-body'>
                                         <h1 className='card-title mb-4'>Tencent</h1>
                                         <a target='_blank' className='project-links' href='https://xenodochial-nobel-8391db.netlify.app'>Visit Site</a>
@@ -191,7 +191,7 @@ const About = () => {
 
                             <div className='col-lg-4'>
                                 <div className='card-2 mt-2'>
-                                    <img className='card-image' src={PORTFOLIO} />
+                                    <img className='img-fluid card-image' src={PORTFOLIO} />
                                     <div className='card-body'>
                                         <h1 className='card-title mb-4'>My First Portfolio</h1>
                                         <a target='_blank' className='project-links' href='https://quizzical-williams-04b309.netlify.app'>Visit Site</a>
